@@ -1,8 +1,7 @@
- <h1 align="center">👋 Hi, I’m @Santeep👨🏽‍💻</h1>
- <h3 align="Right">Passionate Engineer</h3>
- <h3 align="Left">B.Tech -<strong> Electronics and Communication Engineering (ECE) </strong><sub>2017-2021</sub></h3>
- <p align="center"><img src="cropped-fnewbko11.jpg" width=500px></p>
+ <h1 align="center">👋 Hi, I’m @Santeep👨🏽‍💻 <sub><h6>Passionate Engineer</h6></sub></h1>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santeep&show_icons=true&theme=gotham"></p>
+ <h3 align="center">B.Tech -<strong> Electronics and Communication Engineering (ECE) </strong><sub>2017-2021</sub></h3>
+ <p align="center"><img src="cropped-fnewbko11.jpg" width=500px></p>
 <h2>- 🌱 I’m currently Enhancing coding skill....</h2>
 <h2 align="Right">Programming Languages</h2>
 <div>C programming</div>
