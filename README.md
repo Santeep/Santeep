@@ -6,8 +6,8 @@
 <h4 align="Right">Programming Languages</h4>
 <div>C programming</div>
 <div>C++ programming</div>
-<div>Java programming</div>
-<div>Python rogramming</div>
+<div>Java programming  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></div>
+<div>Python rogramming <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></div>
 <!---
 Santeep/Santeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
