@@ -10,7 +10,7 @@
 <li>Python prgramming</li>   
  <li>HTML5 and CSS3<li>
 </ul>
-![coollogo_com-32626773](https://user-images.githubusercontent.com/82812064/128566260-a4d1f227-3e78-476e-86a9-be2aa2fc4d51.gif)
+
 
     [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
     [::::::::::::::      ::::::::::::::]
