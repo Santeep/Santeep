@@ -8,20 +8,6 @@
 <div>C++ programming</div>
 <div>Java programming</div>
 <div>Python rogramming</div>
-
- 
- 
- 
- 
- 
- 
-                                                                                              [[[[[[[[[[[[      ]]]]]]]]]]]]
-                                                                                              [:::[[[[[[[:      :]]]]]]]:::]
-                                                                                              [::[                      ]::]
-                                                                                              [::[        Santeep       ]::]
-                                                                                              [::[                      ]::]
-                                                                                              [:::[[[[[[[:      :]]]]]]]:::]
-                                                                                              [[[[[[[[[[[[      ]]]]]]]]]]]] 
 <!---
 Santeep/Santeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
