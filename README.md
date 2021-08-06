@@ -7,7 +7,7 @@
 <div>C++ programming</div>
 <div>Java programming</div>
 <div>Python rogramming</div>
-<img src
+<img src="cropped-fnewbko11.jpg">
  
  
  
