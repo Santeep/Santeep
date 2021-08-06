@@ -1,5 +1,6 @@
  <h2 align="center">👋 Hi, I’m @Santeep👨🏽‍💻 <sub><h6>Passionate Engineer</h6></sub><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santeep&show_icons=true&theme=gotham"></p></h2>
 <h4>- 🌱 I’m currently Enhancing coding skill....</h4>
+<h6>📦⚡Click on the Dropdown to view details...</h6>
 <details>
   <summary>🎓📚Education</summary>
  
