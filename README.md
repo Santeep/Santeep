@@ -7,6 +7,7 @@
 <div>C++ programming</div>
 <div>Java programming</div>
 <div>Python rogramming</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santeep&show_icons=true&theme=gotham">
 
  
  
