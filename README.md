@@ -3,8 +3,8 @@
 <!-- <p align="center"><img src="cropped-fnewbko11.jpg" width=500px></p>-->
 <h4>- 🌱 I’m currently Enhancing coding skill....</h4>
 <h4 align="left">Programming Languages</h4>
-<div>C programming</div>
-<div>C++ programming</div>
+<div>C programming <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></div>
+<div>C++ programming <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></div>
 <div>Java programming  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></div>
 <div>Python rogramming <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></div>
 <!---
