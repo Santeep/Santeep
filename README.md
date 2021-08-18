@@ -1,4 +1,4 @@
- <h2 align="center">👋 Hi, I’m @Santeep👨🏽‍💻 <sub><h6>Passionate Engineer</h6></sub><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santeep&show_icons=true&theme=gotham"> <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santeep" />
+ <h2 align="center">👋 Hi, I’m Santeep👨🏽‍💻 <sub><h6>Passionate Engineer</h6></sub><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santeep&show_icons=true&theme=gotham"> <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santeep" />
  </p></h2>
 <h6>📦⚡Click on the Dropdown to view details...</h6>
 <h4>- 🌱 I’m currently Enhancing coding skill....</h4>
@@ -40,6 +40,9 @@
 
 
 </details>
+
+<h4>Linkedin Profile</h4>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mahaa-santeep-g-806ab5209" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mahaa-santeep-g-806ab5209?trk=profile-badge">Mahaa Santeep G</a></div>
 <!---
 Santeep/Santeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
